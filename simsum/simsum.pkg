@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'simsum': Analyses of simulation studies including Monte Carlo error Use simsum With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f simsum.ado
+f simsum.sthlp
