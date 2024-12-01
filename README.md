@@ -1,6 +1,8 @@
 # simsum
 Analyses of simulation studies including Monte Carlo error Use simsum With STATA 18
 
+https://www.youtube.com/watch?v=V6csl1_sTaI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
